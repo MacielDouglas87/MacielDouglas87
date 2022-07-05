@@ -1,0 +1,4 @@
+- 👋 ola meu nome e @MacielDouglas87
+- 👀 estou interesado em saber mais sobre o github
+- 🌱 eu estou aprendendo como funciona as programaçoes do javaScript e scratch
+- 👍 abacaxi fucsia 
